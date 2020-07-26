@@ -1,4 +1,4 @@
-# docker-nginx-file-static-server
+# docker-nginx-static-file-server
 Creating a static file server with docker.
 
 # Requirements
