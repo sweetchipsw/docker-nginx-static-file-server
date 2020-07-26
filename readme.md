@@ -32,7 +32,7 @@ http {
 
 # Run
 ```
-wget blah
+wget https://raw.githubusercontent.com/sweetchipsw/docker-nginx-file-static-server/master/nginx.conf?token=ADLO3M3A7PIKD2DINTMPHHK7E2CSU
 docker run -v /path/to/nginx.conf:/etc/nginx/nginx.conf -v /path/to/share:/usr/share/nginx/html:ro -p 80:80 -d nginx
 ```
 
